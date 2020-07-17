@@ -11,8 +11,8 @@ We are working hard to improve Windows 10 IoT Core and deeply value any feedback
 
 ## Build Status
 
-||10.0.0_r33-m2|
-|:---:|:---:|
+|Name|10.0.0_r33-m2|
+|:---:|---|
 **AoW**|[![Build status](https://dev.azure.com/msaosp/ms-aosp/_apis/build/status/aow/aow-manifest-build)](https://dev.azure.com/msaosp/ms-aosp/_build/latest?definitionId=3)| 
 **IvI-x86**|[![Build status](https://dev.azure.com/msaosp/ms-aosp/_apis/build/status/ivi/x86/ivi-x86-manifest-build)](https://dev.azure.com/msaosp/ms-aosp/_build/latest?definitionId=9)|
 **IvI-gts4lvwifi**|[![Build status](https://dev.azure.com/msaosp/ms-aosp/_apis/build/status/ivi/gts4lvwifi/ivi-gts4lvwifi-manifest-build)](https://dev.azure.com/msaosp/ms-aosp/_build/latest?definitionId=14)|
